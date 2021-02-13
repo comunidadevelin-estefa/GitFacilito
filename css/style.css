@@ -60,6 +60,13 @@ h3 {
   justify-content: space-between;
 }
 
+.complementario{
+  color: #0f3609;
+  text-transform: uppercase;
+  text-align: center;
+  
+}
+
 .item {
   text-align: center;
   margin: 10rem;
